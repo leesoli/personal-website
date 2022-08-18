@@ -14,7 +14,7 @@
     "name": "Savorder",
     "description": "A web app for customers to view restaurant details, including menu items. You can directly place orders online or contact the restaurant regarding personal/business inquiries.",
     "photos": ["images/restaurant/home-page.png", "images/restaurant/contact-page.png","images/restaurant/story-page.png","images/restaurant/order-page.png", "images/restaurant/cart-page.png"],
-    "thumbnail": "images/restaurant/thumbnail.png",
+    "thumbnail": "./images/restaurant/thumbnail.png",
     "mobilePhotos": ["images/restaurant/mobile-home.png", "images/restaurant/mobile-order.png", "images/restaurant/mobile-cart.png"],
     "url": "https://github.com/leesoli/react-restaurant-app",
     "techStack": ["Javascript", "React", "React Context", "Next.js", "HTML", "CSS", "Webpack", "TailwindCSS"]
